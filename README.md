@@ -99,7 +99,7 @@ The complete manuscript is available as [PDF](paper/SAGE-Credit.pdf) and [Word d
 
 ## Scope and responsible use
 
-This repository is a research artifact, not a production lending system. The study uses one public anonymized dataset and controlled feature-removal conditions. It does not establish external validity, production readiness, subgroup fairness, suitable lending thresholds, or compliance with any legal or regulatory regime. Do not use the models for real lending decisions without independent validation, fairness analysis, calibration, governance, and domain-specific review.
+This repository presents a research study on credit-default prediction using a public, anonymized dataset and controlled experiments that simulate different levels of credit-score availability. The results show how the proposed model responds when important information is limited or unavailable. Future real-world applications would require testing on additional populations, subgroup fairness analysis, probability calibration, appropriate lending thresholds, regulatory compliance, strong governance, and review by financial-domain experts.
 
 ## Citation
 
