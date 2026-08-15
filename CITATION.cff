@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its research artifacts, please cite it using the metadata below."
+title: "SAGE-Credit: Adaptive Expert Gating for Credit Default Prediction Under Variable External-Score Availability"
+type: software
+authors:
+  - family-names: Mundhra
+    given-names: Raghav
+abstract: >-
+  SAGE-Credit is an adaptive gated-expert framework for credit-default
+  prediction under changing external-score availability. It combines full
+  and score-free CatBoost experts with an applicant-specific neural gate.
+keywords:
+  - credit risk
+  - default prediction
+  - missing data
+  - CatBoost
+  - mixture of experts
+  - model robustness
+repository-code: "https://github.com/ramundhra/SAGE-Credit"
+version: 1.0.0
+date-released: 2026-08-15
