@@ -8,6 +8,10 @@ The central question is practical: can a model retain useful predictive performa
 
 ![SAGE-Credit architecture](figures/figure4_sage_credit_architecture.png)
 
+## Accepted IEEE paper
+
+Accepted to the **IEEE BigData 2026 High School Symposium**. Read the [accepted manuscript (PDF)](paper/SAGE-Credit-IEEE-accepted.pdf). This is an author manuscript, not a published IEEE version of record.
+
 ## Headline findings
 
 On the held-out test set, SAGE-Credit achieved the strongest mean performance across four equally weighted external-score availability conditions.
@@ -34,6 +38,7 @@ SAGE-Credit/
 │   ├── 03_tabular_pipeline_and_model_screening.ipynb
 │   └── 04_sage_credit_experiment.ipynb
 ├── paper/
+│   ├── SAGE-Credit-IEEE-accepted.pdf
 │   ├── SAGE-Credit.pdf
 │   └── SAGE-Credit.docx
 ├── figures/
@@ -95,7 +100,7 @@ Full execution requires the original Kaggle data, substantial RAM and storage, a
 
 ## Paper and figures
 
-The complete manuscript is available as [PDF](paper/SAGE-Credit.pdf) and [Word document](paper/SAGE-Credit.docx). All ten manuscript figures are included in [`figures/`](figures/), including the data pipelines, model architecture, evaluation results, bootstrap comparison, feature importance, and gate behavior.
+The accepted IEEE manuscript is available as [PDF](paper/SAGE-Credit-IEEE-accepted.pdf). The earlier full-length manuscript is preserved as [PDF](paper/SAGE-Credit.pdf) and [Word document](paper/SAGE-Credit.docx). All ten manuscript figures are included in [`figures/`](figures/), including the data pipelines, model architecture, evaluation results, bootstrap comparison, feature importance, and gate behavior.
 
 ## Scope and responsible use
 
